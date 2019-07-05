@@ -9743,11 +9743,6 @@ plugins:
       - 'Requiem.esp'
       - 'Requiem - Bugsmasher Edition.esp'
       - 'Requiem - Legendary Bugsmasher Edition.esp'
-  - name: 'Religion.esp'
-    after:
-      - 'Requiem.esp'
-      - 'Requiem - Bugsmasher Edition.esp'
-      - 'Requiem - Legendary Bugsmasher Edition.esp'
   - name: 'No Vendor or Loot Spells - Riverwood Trader Requiem.esp'
     req:
       - 'Requiem.esp'
