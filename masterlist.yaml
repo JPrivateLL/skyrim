@@ -9733,11 +9733,6 @@ plugins:
       # version: 4.51
       - crc: 0x68388671
         util: 'TES5Edit v4.0.1'
-  - name: 'RealisticRoomRental(-Basic)?.esp'
-    after:
-      - 'Requiem.esp'
-      - 'Requiem - Bugsmasher Edition.esp'
-      - 'Requiem - Legendary Bugsmasher Edition.esp'
   - name: 'Unlimited Training.esp'
     after:
       - 'Requiem.esp'
