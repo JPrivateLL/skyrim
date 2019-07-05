@@ -2409,8 +2409,6 @@ plugins:
             text: 'このModは人間種族（インペリアル、ブレトン、ノルド、レッドガード）を改変するModとは両立できません。また、バベットのfacegenデータ(0001D4B7.NIF)を含むModとは互換性がありません。'
   - name: 'Weapons & Armor Fixes_Remade.esp'
     group: *underridesGroup
-    after:
-      - 'Guard Dialogue Overhaul.esp'
     msg:
       - <<: *patchRequiem3rdParty
         condition: 'active("Requiem.esp") and not active("KFR-Kryptopyr''sFixesReqtified.esp")'
